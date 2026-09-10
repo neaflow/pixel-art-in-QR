@@ -26,3 +26,4 @@ I thought this was very cool but wanted it to be automated
 - test button that uses QR scanning engine
 - reset button
 - make it look better
+- make the output not the size of an ant
