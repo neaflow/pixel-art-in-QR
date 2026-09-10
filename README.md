@@ -1,5 +1,10 @@
 # pixel-art-in-QR
 ### Put pixel art (from any image) into a QR code
+
+GitHub pages: https://neaflow.github.io/pixel-art-in-QR/
+
+My own hosting: https://paq.neaflow.com/
+
 ![example qr code pixel art](ex.png)
 
 ## How to use it:
