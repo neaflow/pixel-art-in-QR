@@ -1,9 +1,11 @@
 # pixel-art-in-QR
 ### Put pixel art (from any image) into a QR code
+
 ![example qr code pixel art](ex.png)
 
 ## How to use it:
 **1. Upload or paste in an image, and paste in or type a URL**
+
 ![upload step 1](how1.png)
 
 **2. Get the pixel-artified image**
