@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Pixel Art QR</title>
+    <link rel="stylesheet" href="css.css">
+</head>
+
+<body>
+    <div id="header">
+        <h1>pixel art qr code</h1>
+    </div>
+    <div id="boxes">
+        <div id="input-box">
+            <label for="image-input" id="upload-button">Upload image</label>
+            <input type="file" id="image-input" accept="image/*" hidden>
+            <input type="text" id="link-input" placeholder="paste your link here">
+        </div>
+        <div id="qr-box">
+            <p>type a link above...</p>
+        </div>
+        <div id="output-box">
+            <p>upload a pixel art image above...</p>
+        </div>
+    </div>
+    <script src="qrcode.js"></script>
+    <script src="js.js"></script>
+
+</body>
+
+</html>
