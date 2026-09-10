@@ -13,6 +13,8 @@ That's it; the pixel art QR code is on the right.
 
 ##
 QR code generator is courtesy of https://kazuhikoarase.github.io/qrcode-generator/js/demo/
+
+
 This project was inspired by this Reddit post: https://www.reddit.com/r/PixelArt/s/KoCKF1Fe2T
 I thought this was very cool but wanted it to be automated
 
