@@ -20,7 +20,7 @@ QR code generator is courtesy of https://kazuhikoarase.github.io/qrcode-generato
 
 
 This project was inspired by this Reddit post: https://www.reddit.com/r/PixelArt/s/KoCKF1Fe2T
-I thought this was very cool but wanted it to be automated
+I thought this was very cool but wanted it to be automated. The entire thing runs in JS on your own computer.
 
 ## Once i stop being lazy:
 - test button that uses QR scanning engine
